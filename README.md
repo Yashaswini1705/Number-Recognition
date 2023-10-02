@@ -1,6 +1,6 @@
-# Number-Recognition
+# Number-Recognition-with-neural-networks
 Handwritten digit recognition system using MNIST dataset
-Description:
+#Description:
 Welcome to the Number Recognition project using the MNIST dataset repository! This project focuses on training and deploying neural networks to recognize handwritten digits (0-9) from the MNIST dataset. Whether you're a beginner looking to learn about deep learning or an experienced practitioner, this project offers a valuable resource for digit recognition.
 Objevtive:
 Our primary goal is to build a robust and accurate digit recognition system using the MNIST dataset. We aim to create a user-friendly model that can be easily integrated into various applications, such as OCR tools, digitized form processing, and educational platforms.
