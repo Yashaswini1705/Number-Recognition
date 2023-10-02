@@ -8,7 +8,7 @@ Our primary goal is to build a robust and accurate digit recognition system usin
 ## Key Features:
 
 1. MNIST Dataset: Utilizes the MNIST dataset, a standard benchmark in digit recognition, comprising 60,000 training images and 10,000 testing images.
-2. Model Building: Implements a state-of-the-art machine learning or deep learning model for digit recognition. (Specify the model architecture, e.g., Convolutional Neural Network - CNN).
+2. Model Building: Implements a state-of-the-art machine learning or deep learning model for digit recognition.
 3. Data Preprocessing: Demonstrates essential image preprocessing techniques like resizing, normalization, and data augmentation.
 4. Model Evaluation: Utilizes evaluation metrics like accuracy, precision, and recall to assess the model's performance.
 5. Deployment: Provides guidance on deploying the trained model in real-world applications.
